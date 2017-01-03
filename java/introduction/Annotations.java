@@ -2,6 +2,9 @@ import java.lang.annotation.*;
 import java.lang.reflect.*;
 import java.util.*;
 
+/*
+Link to problem: https://www.hackerrank.com/challenges/java-annotations
+*/
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
 @interface FamilyBudget {
