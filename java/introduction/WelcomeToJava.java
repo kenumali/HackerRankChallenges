@@ -1,5 +1,3 @@
-package java.introduction;
-
 /*
 Link to problem: https://www.hackerrank.com/challenges/welcome-to-java
 */
