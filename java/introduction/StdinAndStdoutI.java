@@ -1,5 +1,3 @@
-package java.introduction;
-
 import java.util.*;
 
 /*
