@@ -12,5 +12,6 @@ public class DiwaliLights {
 		for(int i = 0; i < testCases; i++) {
 			System.out.println(BULB_STATUS.pow(scanner.nextInt()).subtract(OFF).mod(MODULUS));
 		}
+		scanner.close();
 	}
 }
